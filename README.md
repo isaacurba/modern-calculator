@@ -9,7 +9,6 @@ A stylish, functional calculator built with **HTML**, **CSS**, and **JavaScript*
 - Modern UI design
 - Safe evaluation (no use of `eval()`)
 
-## 🖼️ Preview
 
 
 ## 🚀 How to Use
